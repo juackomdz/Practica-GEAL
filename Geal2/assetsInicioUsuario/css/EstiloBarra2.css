@@ -1,0 +1,41 @@
+﻿
+.nav-enlace
+{
+    color:#fff;
+    padding:10px 30px;
+    text-decoration:none;
+}
+
+    
+.nav-enlace:hover {
+    color: #00a3d8;
+    border-radius: 5px;
+    
+    padding:5px 0px;
+}
+
+
+.nav-boton {
+    background-color: #00a3d8;
+    border: 2px solid #fff;
+}
+
+#titulo {
+    color: white;
+    font-size: 90px;
+    font-style: italic;
+}
+@media (max-width: 650px) {
+    .nav-enlace:hover {
+        background-color: #00a3d8;
+        border-radius: 5px;
+        color: #fff;
+    }
+    }
+
+@media (max-width: 400px) {
+    .div-titulo {
+        color:aqua;
+    }
+
+}

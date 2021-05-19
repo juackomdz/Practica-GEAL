@@ -1,0 +1,22 @@
+﻿#inicioAdmin {
+    background-image: url("../img/cielo2.jpg");
+}
+
+#bodyinicioadmin {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/cielo2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#TituloInicioAdmin {
+    color: #ffffff;
+    padding: 30px;
+}
+
+#parrafoinicioadmin {
+    color: rgb(255,255,255);
+    font-size: 25px;
+}

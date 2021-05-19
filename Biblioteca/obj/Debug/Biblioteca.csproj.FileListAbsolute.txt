@@ -1,0 +1,18 @@
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\geal-web\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Users\User\Documents\Kevin\DUOC\Practica Profesional\Nueva version\07-04-2020-1600\Geal3\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Juacko\Downloads\Geal3-20210215T202139Z-001\Geal3\Biblioteca\obj\Debug\Biblioteca.pdb

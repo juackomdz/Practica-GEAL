@@ -1,0 +1,13 @@
+header.masthead {
+  text-align: center;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: 50%;
+  background-size: cover;
+}
+
+#logo {
+  border-radius: 10px;
+}
+

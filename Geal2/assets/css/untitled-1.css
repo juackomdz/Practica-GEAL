@@ -1,0 +1,59 @@
+#electrico {
+  border-radius: 20px;
+}
+
+#foto2 {
+  border-radius: 20px;
+}
+
+#foto3 {
+  border-radius: 20px;
+}
+
+
+
+#btncontactanos {
+  border-radius: 10px;
+}
+
+#bloque {
+  margin: auto;
+}
+
+#inicio {
+  background: url(../../assets/img/subasta-electrica-copia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#titulo {
+  color: #ffffff;
+}
+
+
+
+#servicios {
+}
+
+#servicioTitulo1 {
+  font-size: 30px;
+  height: 50px;
+  line-height: 30px;
+  font-weight: normal;
+  font-style: normal;
+}
+
+#img1 {
+  margin-top: 19px;
+}
+
+#servicioTirulo2 {
+  font-size: 30px;
+  font-weight: normal;
+  height: 50px;
+}
+
+#img2 {
+  margin-top: 20px;
+}
+
